@@ -3,5 +3,5 @@
 This is the Pinteresting Sample Application for
 [*One Month Rails*](http://onemonthrails.com)
 
-by[Mattan Griffel](http://mattangriffel.com)
+by [Mattan Griffel](http://mattangriffel.com)
 
